@@ -16,8 +16,7 @@
         3-	Cameras
             1.	Photography (needs min 5)
             2.	Video (needs min 5)
-### Example:
-- - Demo data: 
+#### Demo data: 
         1, 1, Hp laptop, HP, ZBook 850, 2017, HPZB-17-I7-1TB32R, 725E, (Newest HP Chromebook 11.6" HD Laptop for Business and Student, Intel Celeron N3350, 32GB RAM, 1TB eMMC Flash Memory, Webcam, USB-A&C, WiFi , Bluetooth, Windows 11), http://example.com/assets/public/p_img/1863254.png, New, 20
 ### Notice!
 - - This is just the demo data for just 1 product. 
