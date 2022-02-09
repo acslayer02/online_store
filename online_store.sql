@@ -1,5 +1,5 @@
 /* 
-   ##  CSS Document
+   ##  SQL Document
    ##  Author:         Tim Lopes
                        timlopes.work@gmail.com
    ##  ----U.C-----    www.timlopes.eu
