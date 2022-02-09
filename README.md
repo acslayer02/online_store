@@ -12,6 +12,7 @@
 ### Products:
 - 1) Choose a product category you want as yours.
 - 2) Create demo data for at least a minimun of 5 products for ech of your subcategories.
+###
         1-  Computers - category_id = 1
             1.	Laptops (needs min 5) - subcategory_id = 1
             2.	Desktop (needs min 5)
