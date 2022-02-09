@@ -31,12 +31,12 @@
 - - The demo data I have here, uses the fields from the structure of  the tables.
 - - You must follow the same criterial, please.
 ### Notice!
-Do not mind about the image link.
-But you must get some demo images! & resize them Important!
-here are the dimension for the images 
-    Width= 225px
-    height= 180px
-Save all your demo images for the products inside folder/directory (assets/img/p_img).
+- Do not mind about the image link.
+- But you must get some demo images! & resize them Important!
+- Here are the dimension for the images 
+- - Width= 225px
+- - height= 180px
+- Save all your demo images for the products inside folder/directory (assets/img/p_img).
 ### Customers & Employees!
 - A)	each of us must also create 2 demo user data, so in total we should have 6.
 - B)	Each of us must also create 1 demo data for an employee (it can be yourself).
