@@ -19,7 +19,7 @@ CREATE TABLE `categories` (
 CREATE TABLE `subcategories` (
     `subcategory_id` int auto_increment primary key,
     `subcategory_name` varchar (100) not null,
-    `category_id` int not null
+    `category_id` int not null,
         constraint fk_category
         foreign key (category_id) 
         references categories(category_id)
