@@ -26,9 +26,9 @@
         1, 1, Hp laptop, HP, ZBook 850, 2017, HPZB-17-I7-1TB32R, 725E, (Newest HP Chromebook 11.6" HD Laptop for Business and Student, Intel Celeron N3350, 32GB RAM, 1TB eMMC Flash Memory, Webcam, USB-A&C, WiFi , Bluetooth, Windows 11), http://example.com/assets/public/p_img/1863254.png, A, New, 20
 ### Notice!
 - - This is just the demo data for just 1 product. 
-- - Each one of us must create at least 5 products for each subcategory
+- - Create at least 5 products demo data for each subcategory under your category.
 - - This example was made imaging that we are doing a MySQL query to insert data into the products table to create a new product.
-- - The demo data I have here, uses the fields from the structure of  the tables.
+- - The demo data I have here, matches the respective fields from the structure of  the tables.
 - - You must follow the same criterial, please.
 ### Notice!
 - Do not mind about the image link.
