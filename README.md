@@ -40,4 +40,3 @@
 ### Customers & Employees!
 - A)	each of us must also create 2 demo user data, so in total we should have 6.
 - B)	Each of us must also create 1 demo data for an employee (it can be yourself).
-
