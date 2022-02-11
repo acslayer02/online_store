@@ -70,3 +70,13 @@ CREATE TABLE 'customers' (
     'selling_p_id' int unique not null,
 
 ) ENGINE=MyISAM DEFAULT CHARSET=latin1 COLLATE=latin1_general_ci;
+
+CREATE TABLE 'employees' (
+    'Employee_id' int auto_increment primary key unique,
+    'fname' varchar(20) not null,
+    'lname' varchar (20) not null,
+    'address' varchar (50) not null,
+    'role' varchar(20) not null,
+    'department_id' int,
+    'status' boolean;
+) ENGINE=MyISAM DEFAULT CHARSET=latin1 COLLATE=latin1_general_ci;
