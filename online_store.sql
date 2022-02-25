@@ -80,3 +80,4 @@ CREATE TABLE 'employees' (
     'department_id' int,
     'status' boolean;
 ) ENGINE=MyISAM DEFAULT CHARSET=latin1 COLLATE=latin1_general_ci;
+
